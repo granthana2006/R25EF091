@@ -5,3 +5,9 @@ My name is Granthana. I am currently studying engineering and I am interested in
 Learning Java
 Interested in web development
 Goal: Contribute to open source
+
+## Collaboration Log
+- **Pairing Partner:** D KEERTANA
+- **GitHub Username:** Keertanad
+- **What We Built Together:** Implemented the `greet()` function and tested its output.
+- **What I Learned:** Learned how to use GitLens/Live Share to collaborate, view changes, and work together in real time.
